@@ -1,2 +1,2 @@
-# python-afifhensemmmmmmmm
+# python-afif
 ts is python class
